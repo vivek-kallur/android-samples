@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidDemo</string>
+    <string name="title">Track List:</string>
+    <string name="action_settings">Settings</string>
+    <string name="track_price">$%s</string>
+    <string name="empty_list">No results found.</string>
+</resources>
